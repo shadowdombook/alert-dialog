@@ -1,7 +1,7 @@
 {
   "author": "Alex Libby",
-  "name": "alert-component",
-  "version": "0.1.0",
+  "name": "@shadowdombook/alert-component",
+  "version": "0.1.0-alpha",
   "type": "module",
   "description": "An Alert Dialog Web Component for my Shadow DOM API book",
   "main": "script.js",
